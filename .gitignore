@@ -1,0 +1,42 @@
+### Ds_Store ignore ###
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+
+### IntelliJ project files
+.idea
+.idea/*.xml
+rebel.xml
+HELP.md
+
+### H2 DB
+H2
+
+### gradle
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
